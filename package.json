@@ -1,0 +1,10 @@
+{
+    "name": "apiaprendendoestruturado",
+    "version": "1.0.0",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "firebase-admin": "^5.12.1",
+        "nodemon": "^1.17.5"
+    }
+}
